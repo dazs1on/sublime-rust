@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+print!("${1}"${2:, ${3:args}})
+]]></content>
+    <scope>source.rust</scope>
+    <tabTrigger>print!</tabTrigger>
+    <description>print! macro</description>
+</snippet>
